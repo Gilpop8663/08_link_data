@@ -21,7 +21,6 @@ server.post('/login', (req, res) => {
   const userInfo = users.find((e) => {
     return e.id === id && e.password === password;
   });
-  console.log(userInfo);
   if (userInfo) {
     res.send(userInfo);
   } else {
