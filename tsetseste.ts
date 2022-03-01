@@ -13,6 +13,7 @@ server.use(
     '/api/*': '/$1',
   })
 );
+server.use(jsonServer.bodyParser);
 
 server.post('/login', (req, res) => {
   console.log(req.body);
