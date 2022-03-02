@@ -6,6 +6,10 @@
 
 ## <a href="https://dry-hollows-03672.herokuapp.com/">배포 사이트</a>
 
+## 회고록
+
+## <a href="https://hell-of-company-builder.tistory.com/279">블로그 회고록</a>
+
 ## 💻 설치 방법
 
     npm install
