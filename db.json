@@ -4,122 +4,129 @@
       "title": "많이 쓰는 JS 메서드 ",
       "list": [
         {
-          "id": "b39b3e59-ed94-4210-8771-352ca826d187",
-          "candidate": "map",
-          "roundWin": 15,
-          "roundLose": 4,
-          "champion": 2
-        },
-        {
-          "id": "8aec906d-4326-4565-8662-738926ddcebb",
-          "candidate": "pop",
-          "roundWin": 4,
-          "roundLose": 6,
-          "champion": 0
-        },
-        {
-          "id": "6d398c87-2a02-4f8d-ab44-d0acfcac1d95",
-          "candidate": "includes",
-          "roundWin": 4,
-          "roundLose": 6,
-          "champion": 0
-        },
-        {
-          "id": "64fa8db5-83cb-44d5-a886-5473270d03e5",
-          "candidate": "filter",
-          "roundWin": 8,
-          "roundLose": 5,
-          "champion": 1
-        },
-        {
-          "id": "935bb64e-cec9-4fe6-9ca9-7bd51bf5d465",
-          "candidate": "find",
-          "roundWin": 6,
-          "roundLose": 6,
-          "champion": 0
-        },
-        {
-          "id": "35106d65-bb14-45be-be6b-6c044e2599f8",
-          "candidate": "toString",
-          "roundWin": 3,
-          "roundLose": 6,
-          "champion": 0
-        },
-        {
-          "id": "5583140a-79f7-4eac-9601-109237a94ec0",
-          "candidate": "sort",
-          "roundWin": 5,
-          "roundLose": 6,
-          "champion": 0
-        },
-        {
           "id": "d742c117-ffee-40f0-9fae-56cdc5f00589",
           "candidate": "join",
           "roundWin": 2,
-          "roundLose": 6,
+          "roundLose": 7,
           "champion": 0
         },
         {
-          "id": "59022172-d144-4040-91c2-03d315791504",
-          "candidate": "reduce",
-          "roundWin": 6,
+          "id": "68deb5b3-bef5-490e-918c-6a90a15b04be",
+          "candidate": "length",
+          "roundWin": 14,
           "roundLose": 6,
-          "champion": 0
-        },
-        {
-          "id": "52482e68-ee6f-4da1-90a6-e41b1fd72afd",
-          "candidate": "slice",
-          "roundWin": 8,
-          "roundLose": 5,
           "champion": 1
         },
         {
-          "id": "6b7020e2-1115-4867-9cb7-ba1a36923aa6",
-          "candidate": "concat",
-          "roundWin": 6,
-          "roundLose": 5,
-          "champion": 1
-        },
-        {
-          "id": "34fa944b-46f8-4a93-bbbc-aa63980d4f56",
-          "candidate": "push",
-          "roundWin": 2,
-          "roundLose": 6,
-          "champion": 0
+          "id": "b39b3e59-ed94-4210-8771-352ca826d187",
+          "candidate": "map",
+          "roundWin": 19,
+          "roundLose": 4,
+          "champion": 3
         },
         {
           "id": "aedf6806-e7e5-4513-9fab-dac84c0f5926",
           "candidate": "splice",
           "roundWin": 3,
-          "roundLose": 6,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "5583140a-79f7-4eac-9601-109237a94ec0",
+          "candidate": "sort",
+          "roundWin": 7,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "8aec906d-4326-4565-8662-738926ddcebb",
+          "candidate": "pop",
+          "roundWin": 4,
+          "roundLose": 7,
           "champion": 0
         },
         {
           "id": "9d2ac439-d2e0-4f2e-9c17-0e6210619e6e",
           "candidate": "random",
           "roundWin": 4,
-          "roundLose": 6,
+          "roundLose": 7,
           "champion": 0
         },
         {
           "id": "badeb032-50c8-486a-924c-55bcdc41eb30",
           "candidate": "indexOf",
-          "roundWin": 1,
-          "roundLose": 6,
+          "roundWin": 2,
+          "roundLose": 7,
           "champion": 0
         },
         {
-          "id": "68deb5b3-bef5-490e-918c-6a90a15b04be",
-          "candidate": "length",
-          "roundWin": 13,
-          "roundLose": 5,
+          "id": "6b7020e2-1115-4867-9cb7-ba1a36923aa6",
+          "candidate": "concat",
+          "roundWin": 6,
+          "roundLose": 6,
+          "champion": 1
+        },
+        {
+          "id": "52482e68-ee6f-4da1-90a6-e41b1fd72afd",
+          "candidate": "slice",
+          "roundWin": 9,
+          "roundLose": 6,
+          "champion": 1
+        },
+        {
+          "id": "6d398c87-2a02-4f8d-ab44-d0acfcac1d95",
+          "candidate": "includes",
+          "roundWin": 6,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "59022172-d144-4040-91c2-03d315791504",
+          "candidate": "reduce",
+          "roundWin": 6,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "35106d65-bb14-45be-be6b-6c044e2599f8",
+          "candidate": "toString",
+          "roundWin": 4,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "34fa944b-46f8-4a93-bbbc-aa63980d4f56",
+          "candidate": "push",
+          "roundWin": 2,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "935bb64e-cec9-4fe6-9ca9-7bd51bf5d465",
+          "candidate": "find",
+          "roundWin": 6,
+          "roundLose": 7,
+          "champion": 0
+        },
+        {
+          "id": "64fa8db5-83cb-44d5-a886-5473270d03e5",
+          "candidate": "filter",
+          "roundWin": 11,
+          "roundLose": 6,
           "champion": 1
         }
       ],
       "id": "74565ebf-e512-4342-ae3f-eb1eefedff43",
-      "count": 6,
+      "count": 7,
       "createdAt": 1647273638594,
       "comments": [
+        {
+          "id": "c6060272-8720-4789-895c-8195ca803427",
+          "text": "역시 map",
+          "createdAt": 1647437571930,
+          "creatorId": "112558653922150287338",
+          "userId": "김여름"
+        },
         {
           "id": "05a946c1-ffce-4e2d-81fe-ff4c5e42aeb9",
           "text": "length가 최고다😲😲",
@@ -150,120 +157,127 @@
         {
           "id": "9f5118f4-a5d6-4f84-9389-b85e025eb51b",
           "candidate": "떡볶이",
-          "roundWin": 22,
-          "roundLose": 23,
-          "champion": 1
-        },
-        {
-          "id": "d1c5b65e-9dc0-4fe2-84dd-4684addb4bb9",
-          "candidate": "비빔밥",
-          "roundWin": 20,
-          "roundLose": 23,
-          "champion": 1
-        },
-        {
-          "id": "83012ab7-6216-42fb-909c-a7f1838b7e81",
-          "candidate": "보쌈",
-          "roundWin": 19,
-          "roundLose": 24,
-          "champion": 0
-        },
-        {
-          "id": "0e241707-0e39-4c2d-adff-3ad7d4a9aae0",
-          "candidate": "국밥",
-          "roundWin": 16,
-          "roundLose": 22,
-          "champion": 2
-        },
-        {
-          "id": "63266ee3-72db-4777-9f87-3133cf06e572",
-          "candidate": "라면",
-          "roundWin": 15,
-          "roundLose": 24,
-          "champion": 0
-        },
-        {
-          "id": "2a9893d1-b802-4ac2-9ca6-71acb1c4f3d9",
-          "candidate": "쭈꾸미 볶음",
-          "roundWin": 22,
-          "roundLose": 22,
-          "champion": 2
-        },
-        {
-          "id": "7954ad12-edbc-4006-bce7-39b8c5ed1834",
-          "candidate": "삼겹살",
-          "roundWin": 42,
-          "roundLose": 19,
-          "champion": 5
-        },
-        {
-          "id": "413d2b83-6000-44ad-8110-a2d9bb073467",
-          "candidate": "된장찌개",
-          "roundWin": 20,
-          "roundLose": 24,
-          "champion": 0
-        },
-        {
-          "id": "a1dde40f-0e58-478f-849a-59a655bc9385",
-          "candidate": "돼지갈비",
-          "roundWin": 29,
-          "roundLose": 21,
-          "champion": 3
-        },
-        {
-          "id": "7072d936-ba1f-47aa-8b46-e57450ec8ba5",
-          "candidate": "스테이크",
           "roundWin": 26,
-          "roundLose": 22,
-          "champion": 2
+          "roundLose": 27,
+          "champion": 1
         },
         {
           "id": "52e2eb11-2d9d-4dc4-83de-7539fb7d3edd",
           "candidate": "샐러드",
-          "roundWin": 12,
-          "roundLose": 24,
+          "roundWin": 15,
+          "roundLose": 28,
           "champion": 0
         },
         {
-          "id": "b78b0a76-43f9-478e-8f4b-408071aa3d55",
-          "candidate": "곱창",
-          "roundWin": 16,
-          "roundLose": 23,
-          "champion": 1
-        },
-        {
-          "id": "40f063f1-f8b6-49f5-b657-6376a2512541",
-          "candidate": "피자 ",
-          "roundWin": 27,
-          "roundLose": 21,
-          "champion": 3
-        },
-        {
-          "id": "194e6b18-9525-49eb-a5a7-e8f7f9f6d354",
-          "candidate": "치킨 ",
-          "roundWin": 40,
-          "roundLose": 21,
-          "champion": 3
-        },
-        {
-          "id": "ea553e40-3e3d-48bd-9c17-7f19b8f147ff",
-          "candidate": "족발",
-          "roundWin": 16,
-          "roundLose": 24,
+          "id": "63266ee3-72db-4777-9f87-3133cf06e572",
+          "candidate": "라면",
+          "roundWin": 20,
+          "roundLose": 28,
           "champion": 0
         },
         {
           "id": "1952490c-820b-4e98-9cb5-5767131c7cb8",
           "candidate": "짬뽕",
-          "roundWin": 18,
-          "roundLose": 23,
+          "roundWin": 19,
+          "roundLose": 27,
           "champion": 1
+        },
+        {
+          "id": "7072d936-ba1f-47aa-8b46-e57450ec8ba5",
+          "candidate": "스테이크",
+          "roundWin": 27,
+          "roundLose": 26,
+          "champion": 2
+        },
+        {
+          "id": "0e241707-0e39-4c2d-adff-3ad7d4a9aae0",
+          "candidate": "국밥",
+          "roundWin": 17,
+          "roundLose": 26,
+          "champion": 2
+        },
+        {
+          "id": "ea553e40-3e3d-48bd-9c17-7f19b8f147ff",
+          "candidate": "족발",
+          "roundWin": 19,
+          "roundLose": 28,
+          "champion": 0
+        },
+        {
+          "id": "2a9893d1-b802-4ac2-9ca6-71acb1c4f3d9",
+          "candidate": "쭈꾸미 볶음",
+          "roundWin": 29,
+          "roundLose": 25,
+          "champion": 3
+        },
+        {
+          "id": "b78b0a76-43f9-478e-8f4b-408071aa3d55",
+          "candidate": "곱창",
+          "roundWin": 29,
+          "roundLose": 25,
+          "champion": 3
+        },
+        {
+          "id": "194e6b18-9525-49eb-a5a7-e8f7f9f6d354",
+          "candidate": "치킨 ",
+          "roundWin": 42,
+          "roundLose": 25,
+          "champion": 3
+        },
+        {
+          "id": "d1c5b65e-9dc0-4fe2-84dd-4684addb4bb9",
+          "candidate": "비빔밥",
+          "roundWin": 21,
+          "roundLose": 27,
+          "champion": 1
+        },
+        {
+          "id": "83012ab7-6216-42fb-909c-a7f1838b7e81",
+          "candidate": "보쌈",
+          "roundWin": 26,
+          "roundLose": 27,
+          "champion": 1
+        },
+        {
+          "id": "413d2b83-6000-44ad-8110-a2d9bb073467",
+          "candidate": "된장찌개",
+          "roundWin": 21,
+          "roundLose": 28,
+          "champion": 0
+        },
+        {
+          "id": "a1dde40f-0e58-478f-849a-59a655bc9385",
+          "candidate": "돼지갈비",
+          "roundWin": 34,
+          "roundLose": 25,
+          "champion": 3
+        },
+        {
+          "id": "7954ad12-edbc-4006-bce7-39b8c5ed1834",
+          "candidate": "삼겹살",
+          "roundWin": 47,
+          "roundLose": 23,
+          "champion": 5
+        },
+        {
+          "id": "40f063f1-f8b6-49f5-b657-6376a2512541",
+          "candidate": "피자 ",
+          "roundWin": 28,
+          "roundLose": 25,
+          "champion": 3
         }
       ],
       "id": "8eae6d6c-d83a-4fb8-a772-eddf41156834",
-      "count": 24,
+      "count": 28,
       "createdAt": 1647273923175,
       "comments": [
+        {
+          "id": "e3e56bb1-3651-49ea-b3fd-45df662d84c2",
+          "text": "배고파졌어요",
+          "createdAt": 1647437748596,
+          "creatorId": "112558653922150287338",
+          "userId": "김여름"
+        },
         {
           "id": "76dd0bd5-2199-40c2-b2d5-a05c98f7521f",
           "text": "라면꼴지",
@@ -306,120 +320,120 @@
       "title": "여행 가고싶은 나라",
       "list": [
         {
-          "id": "d65f7a98-65c9-461e-9fcb-c591e261003e",
-          "candidate": "칠레",
-          "roundWin": 1,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
-          "id": "4916c4d5-0475-460e-b36b-4f1e1ca30b94",
-          "candidate": "대만",
-          "roundWin": 2,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
           "id": "15ac9728-4a73-4dfe-a2f6-0eebf86e7e79",
           "candidate": "프랑스",
-          "roundWin": 1,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
-          "id": "5d8b9edb-99ad-4d25-9aeb-5313501a7e1a",
-          "candidate": "미국",
-          "roundWin": 7,
-          "roundLose": 1,
+          "roundWin": 8,
+          "roundLose": 3,
           "champion": 1
         },
         {
-          "id": "bca6e699-840a-4e42-a3c1-276c8c860236",
-          "candidate": "이탈리아",
-          "roundWin": 3,
-          "roundLose": 2,
+          "id": "e38bd44a-978a-4c03-abbe-9974177e7cb8",
+          "candidate": "일본",
+          "roundWin": 6,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "b5cdc584-11c6-4076-af4e-101edab43fa4",
           "candidate": "인도",
-          "roundWin": 0,
-          "roundLose": 2,
+          "roundWin": 1,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "cebe7437-63e6-4869-acba-cc63c3a22b06",
           "candidate": "브라질",
           "roundWin": 2,
-          "roundLose": 2,
+          "roundLose": 4,
           "champion": 0
         },
         {
-          "id": "a65614e3-161d-41a8-acff-4031fd584de4",
-          "candidate": "멕시코",
+          "id": "d65f7a98-65c9-461e-9fcb-c591e261003e",
+          "candidate": "칠레",
           "roundWin": 1,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
-          "id": "e38bd44a-978a-4c03-abbe-9974177e7cb8",
-          "candidate": "일본",
-          "roundWin": 5,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
-          "id": "008efe1b-5f63-4095-ae15-0a4b064a62b7",
-          "candidate": "필리핀",
-          "roundWin": 0,
-          "roundLose": 2,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "731454cb-0ecb-4962-9f0c-4e2b84b151fd",
           "candidate": "홍콩",
-          "roundWin": 1,
+          "roundWin": 3,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "f56a59b6-2352-48fe-ab64-5d92c8b77e82",
+          "candidate": "스페인",
+          "roundWin": 4,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "5d8b9edb-99ad-4d25-9aeb-5313501a7e1a",
+          "candidate": "미국",
+          "roundWin": 11,
           "roundLose": 2,
+          "champion": 2
+        },
+        {
+          "id": "bca6e699-840a-4e42-a3c1-276c8c860236",
+          "candidate": "이탈리아",
+          "roundWin": 5,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "953b827e-9322-4c13-9137-245d8dd544b8",
           "candidate": "중국",
           "roundWin": 0,
-          "roundLose": 2,
-          "champion": 0
-        },
-        {
-          "id": "ccc39e3e-cbb5-47ea-be7c-c4e77a757c5f",
-          "candidate": "영국",
-          "roundWin": 6,
-          "roundLose": 1,
-          "champion": 1
-        },
-        {
-          "id": "f56a59b6-2352-48fe-ab64-5d92c8b77e82",
-          "candidate": "스페인",
-          "roundWin": 0,
-          "roundLose": 2,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "2bff6edb-dc2d-4d59-90a2-21957d96d0ac",
           "candidate": "독일",
+          "roundWin": 1,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "ccc39e3e-cbb5-47ea-be7c-c4e77a757c5f",
+          "candidate": "영국",
+          "roundWin": 9,
+          "roundLose": 3,
+          "champion": 1
+        },
+        {
+          "id": "008efe1b-5f63-4095-ae15-0a4b064a62b7",
+          "candidate": "필리핀",
           "roundWin": 0,
-          "roundLose": 2,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "4916c4d5-0475-460e-b36b-4f1e1ca30b94",
+          "candidate": "대만",
+          "roundWin": 4,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "a65614e3-161d-41a8-acff-4031fd584de4",
+          "candidate": "멕시코",
+          "roundWin": 1,
+          "roundLose": 4,
           "champion": 0
         },
         {
           "id": "ec17ee18-3a1a-4272-a0ad-2c3f593fc104",
           "candidate": "캐나다",
-          "roundWin": 1,
-          "roundLose": 2,
+          "roundWin": 4,
+          "roundLose": 4,
           "champion": 0
         }
       ],
       "id": "c6df1da6-c054-40e2-8eac-60b113594cfa",
-      "count": 2,
+      "count": 4,
       "createdAt": 1647341326805,
       "comments": [
         {
@@ -431,6 +445,273 @@
         }
       ],
       "creatorId": "102266349003310668092"
+    },
+    {
+      "title": "라면",
+      "list": [
+        {
+          "id": "de93021c-4f9b-45f0-92bb-e20ecba399f5",
+          "candidate": "진라면",
+          "roundWin": 4,
+          "roundLose": 3,
+          "champion": 1
+        },
+        {
+          "id": "043b4797-51c9-4c70-b4a8-97a9479f1979",
+          "candidate": "신라면",
+          "roundWin": 5,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "a8e9c705-35cb-493d-9110-cbb8a8f89c51",
+          "candidate": "참깨라면",
+          "roundWin": 2,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "78bb5eef-746f-465c-a39c-2a6b86a46555",
+          "candidate": "안성탕면",
+          "roundWin": 5,
+          "roundLose": 3,
+          "champion": 1
+        },
+        {
+          "id": "cd0bcbc9-f4bf-4041-96cf-1d98ed22b96d",
+          "candidate": "틈새라면",
+          "roundWin": 0,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "f3aac569-0382-49f8-aaee-d95880dbe783",
+          "candidate": "비빔면",
+          "roundWin": 6,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "bf2051f5-858e-4215-9d7a-1935615ba4cd",
+          "candidate": "튀김우동",
+          "roundWin": 3,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "8a9cd2ec-6ea8-412d-a4ea-09c80002bde5",
+          "candidate": "오징어짬뽕",
+          "roundWin": 2,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "31a5932d-ecdb-4e59-99b3-0fb0bb901cd3",
+          "candidate": "열라면",
+          "roundWin": 3,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "a25816d8-af91-47d7-9f90-adcc9333bb6a",
+          "candidate": "너구리",
+          "roundWin": 1,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "301d58d6-a340-4025-a037-20bb17238456",
+          "candidate": "짜빠게티",
+          "roundWin": 10,
+          "roundLose": 3,
+          "champion": 1
+        },
+        {
+          "id": "299b8708-8bfb-4925-9baa-ab6a8188a59e",
+          "candidate": "짜짜로니",
+          "roundWin": 2,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "e300008b-0749-4c13-9aba-b9dc984f83e2",
+          "candidate": "사리곰탕",
+          "roundWin": 4,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "e44cee74-b046-4cc6-a686-89a72e5d4d2e",
+          "candidate": "불닭볶음면",
+          "roundWin": 7,
+          "roundLose": 3,
+          "champion": 1
+        },
+        {
+          "id": "87616591-790a-47d9-ab21-112e419f4c16",
+          "candidate": "짜왕",
+          "roundWin": 4,
+          "roundLose": 4,
+          "champion": 0
+        },
+        {
+          "id": "97dbf788-3b42-4411-a655-f92cfa2aaa7f",
+          "candidate": "삼양라면",
+          "roundWin": 2,
+          "roundLose": 4,
+          "champion": 0
+        }
+      ],
+      "id": "63dc4178-6417-4886-8f46-4a71823ad6d1",
+      "count": 4,
+      "createdAt": 1647438027774,
+      "comments": [
+        {
+          "id": "61709305-92c2-4bc8-b5c2-8b9a1186d6ee",
+          "text": "불닭볶음면 최고~!",
+          "createdAt": 1647440969232,
+          "creatorId": "102227633035821763864",
+          "userId": "긴고랑"
+        },
+        {
+          "id": "b8f1f88f-7ae2-40c9-9465-f72a114c21b1",
+          "text": "안성탕면이 맛있어요",
+          "createdAt": 1647439881239,
+          "creatorId": "102266349003310668092",
+          "userId": "양성호"
+        }
+      ],
+      "creatorId": "112558653922150287338"
+    },
+    {
+      "title": "롤 모스트 챔피언",
+      "list": [
+        {
+          "id": "ea7a1c0f-98cf-476d-9251-5fd8bec0dc2d",
+          "candidate": "리신",
+          "roundWin": 4,
+          "roundLose": 0,
+          "champion": 1
+        },
+        {
+          "id": "e4c03b86-008b-49eb-9c1f-d28b872d00a8",
+          "candidate": "카르마",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "332fe47e-5326-40e5-ae4b-84052bcbc6b1",
+          "candidate": "벡스",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "91e59225-b6c9-4811-bcf6-bb877a1e6367",
+          "candidate": "이즈리얼",
+          "roundWin": 1,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "7a0f3e1a-083b-431d-b307-ecc625e839d4",
+          "candidate": "그레이브즈",
+          "roundWin": 1,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "68b80ca9-04ac-4d45-bfaf-196db6764dec",
+          "candidate": "헤카림",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "d64638c5-8501-4f1e-b6f7-354d013dcd86",
+          "candidate": "르블랑",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "7da03b80-f117-4ff9-9443-211e7fee8c51",
+          "candidate": "아리",
+          "roundWin": 2,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "fd1b8801-4ff7-4024-b972-d878e8a79f24",
+          "candidate": "아트록스",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "ce631918-f408-4e82-a1fc-ba73263085aa",
+          "candidate": "블리츠크랭크",
+          "roundWin": 1,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "4aaf9556-698c-4a38-a40e-4f8af17ca9f6",
+          "candidate": "제이스",
+          "roundWin": 2,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "3ec927a7-f4e6-493e-92dd-93f914e975ae",
+          "candidate": "룰루",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "ded75246-dae1-42b6-a20e-994aa066c66a",
+          "candidate": "진",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "2c62b50a-2250-43e2-b93f-2826998e202c",
+          "candidate": "이렐리아",
+          "roundWin": 1,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "71fc3d4d-8f54-4aa2-8ff4-7d2fc93605bc",
+          "candidate": "노틸러스",
+          "roundWin": 0,
+          "roundLose": 1,
+          "champion": 0
+        },
+        {
+          "id": "65c2ee04-b922-4071-992e-8b298f1f3685",
+          "candidate": "징크스",
+          "roundWin": 3,
+          "roundLose": 1,
+          "champion": 0
+        }
+      ],
+      "id": "8ab2db88-55f8-4e41-b523-b9e9d93b987d",
+      "count": 1,
+      "createdAt": 1647441387545,
+      "comments": [
+        {
+          "id": "bdea1528-b50c-4a09-b65e-40f713a941e1",
+          "text": "리신이 제일 재미있죠",
+          "createdAt": 1647441473136,
+          "creatorId": "102227633035821763864",
+          "userId": "긴고랑"
+        }
+      ],
+      "creatorId": "102227633035821763864"
     }
   ],
   "link": [
