@@ -48,9 +48,11 @@ const LinkPage: FC = () => {
   }, []);
 
   useEffect(() => {
-    axios.get('https://dry-hollows-03672.herokuapp.com/link').then((res) => {
-      setData(res.data);
-    });
+    axios
+      .get('https://port-0-node-express-3vw25lci3y9wi.gksl2.cloudtype.app/link')
+      .then((res) => {
+        setData(res.data);
+      });
   }, []);
 
   function formatBytes(bytes: number, decimals = 2) {
